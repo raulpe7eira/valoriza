@@ -1,6 +1,6 @@
 # Valoriza API
 
-This repository is the code corresponding to the [nlw#6 - trilha nodejs](https://nextlevelweek.com/) lab.
+This repository is the code corresponding to the [nlw#6 - trilha nodejs](https://nextlevelweek.com/) lab by Rafael Camarda.
 
 > The project simulates an recognition among teammates management API that allows to register users, tags, compliments with authentication and retrieves some listings.
 
